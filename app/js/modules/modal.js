@@ -20,7 +20,7 @@ const modal = (modalSelector, trigerSelector) => {
 
     Pageclip.form(form, {
         successTemplate: `
-        <img class="modal__img--sucsess" src="../icons/check.svg">
+        <img class="modal__img--sucsess" src="./../icons/check.svg">
         <div class="modal__title modal__title--sucsess"> 
             <p class="modal__text"><span class="modal__text">Спасибо</span> за заявку</p> 
             <p class="modal__text">В ближайшее время мы  <span class="modal__text">свяжемся</span> с Вами</p>
