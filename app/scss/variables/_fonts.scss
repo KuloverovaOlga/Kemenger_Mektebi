@@ -1,0 +1,60 @@
+
+@font-face {
+    font-family: "Commissioner";
+    font-weight: 300;
+    font-style: normal;
+    src: local("Commissioner Light"),
+        local("Commissioner-Light"),
+        url("/fonts/Commissioner-Light.woff2") format("woff2"),
+        url("/fonts/Commissioner-Light.woff") format("woff"),
+        url("/fonts/Commissioner-Light.eot") format("eot");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Commissioner";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Commissioner Regular"),
+        local("Commissioner-Regular"),
+        url("/fonts/Commissioner-Regular.woff2") format("woff2"),
+        url("/fonts/Commissioner-Regular.woff") format("woff"),
+        url("/fonts/Commissioner-Regular.eot") format("eot");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Commissioner";
+    font-weight: 500;
+    font-style: normal;
+    src: local("Commissioner Medium"),
+        local("Commissioner-Medium"),
+        url("/fonts/Commissioner-Medium.woff2") format("woff2"),
+        url("/fonts/Commissioner-Medium.woff") format("woff"),
+        url("/fonts/Commissioner-Medium.eot") format("eot");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Commissioner";
+    font-weight: 600;
+    font-style: normal;
+    src: local("Commissioner SemiBold"),
+        local("Commissioner-SemiBold"),
+        url("/fonts/Commissioner-SemiBold.woff2") format("woff2"),
+        url("/fonts/Commissioner-SemiBold.woff") format("woff"),
+        url("/fonts/Commissioner-SemiBold.eot") format("eot");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Commissioner";
+    font-weight: 700;
+    font-style: normal;
+    src: local("Commissioner Bold "),
+        local("Commissioner-Bold"),
+        url("/fonts/Commissioner-Bold.woff2") format("woff2"),
+        url("/fonts/Commissioner-Bold.woff") format("woff"),
+        url("/fonts/Commissioner-Bold.eot") format("eot");
+    font-display: swap;
+}
