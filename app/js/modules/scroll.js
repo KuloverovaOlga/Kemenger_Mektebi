@@ -19,7 +19,6 @@ const scroll = () => {
         function animScroll() {
             for (let i = 0; i < animItems.length; i++) {
                 const animItem = animItems[i];
-                console.log(animItem);
                 const itemHeight = animItem.offsetHeight;
                 const itemOffset = offset(animItem).top;
                 const itemStart = 4;
