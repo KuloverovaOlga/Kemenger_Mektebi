@@ -28,9 +28,7 @@
 ---
 
 
-![GifMobile](readme/KEMENGER_MEKTEBI_a4.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GifMobile](readme/KEMENGER_MEKTEBI_axr.gif)
-
-![GifMobile](readme/KEMENGER_MEKTEBI_p.gif)
+![GifMobile](readme/KEMENGER_MEKTEBI_a4.gif) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GifMobile](readme/KEMENGER_MEKTEBI_p.gif)
 
 ---
 
